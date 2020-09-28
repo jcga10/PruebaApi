@@ -1,0 +1,37 @@
+
+[{
+  "_id": {
+    "$oid": "5f6d02f5698c4a3ef097a374"
+  },
+  "CODIGO": "001303",
+  "SKU": "PCAMM010A",
+  "Descripcion": "Tenis Adidas negros"
+},{
+  "_id": {
+    "$oid": "5f6d02f5698c4a3ef097a375"
+  },
+  "CODIGO": "001304",
+  "SKU": "BLNM006A",
+  "Descripcion": "Tenis Nike azul marino"
+},{
+  "_id": {
+    "$oid": "5f6d02f5698c4a3ef097a376"
+  },
+  "CODIGO": "001305",
+  "SKU": "BLNW001A",
+  "Descripcion": "Tenis Nike rosas"
+},{
+  "_id": {
+    "$oid": "5f6d02f5698c4a3ef097a377"
+  },
+  "CODIGO": "001306",
+  "SKU": "PCAM026A",
+  "Descripcion": "Tenis Adidas rojos"
+},{
+  "_id": {
+    "$oid": "5f6d02f5698c4a3ef097a378"
+  },
+  "CODIGO": "001307",
+  "SKU": "PCAM007A",
+  "Descripcion": "Tennias Adidas blancos"
+}]

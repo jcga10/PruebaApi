@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.product{
+    flex-shrink: 1;
+    flex-basis: 24%;
+    width: 18rem;
+    
+}
+
+
+.search-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+  
+  .search-input .search-btn{
+    border:1px solid gray;
+    border-radius: 5px;
+  }
+  
+  .search-input{
+    padding: 5px 8px;
+    width:calc(30% - 2em);
+    margin: 0 8px;
+  }
+  
+  .search-btn{
+    padding: 5px 5px;
+  }
+
+
+

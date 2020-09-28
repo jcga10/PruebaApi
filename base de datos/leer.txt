@@ -1,0 +1,3 @@
+Tuve problemas con la exportacion de la base de datos
+por lo cual solo pude exportar la coleccion productos
+de la base de datos api;
